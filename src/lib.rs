@@ -7,5 +7,7 @@ extern crate serde_derive;
 
 extern crate rand;
 
+extern crate rayon;
+
 pub mod univar_poly_eval_arg;
 pub mod membership_arg;

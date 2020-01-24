@@ -48,6 +48,7 @@ The tests print timing info. Run with `cargo test --release -- --nocapture`
 ## TODO:
 1. More documentation
 1. Tests for failure cases
+1. Handle arbitrary degree
 1. Address various TODOs for optimization
 1. Convert asserts to errors
 1. Abstract the commitment group such that the argument can be used for commitments in group G2 
